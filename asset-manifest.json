@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tft_item/static/css/main.68a52652.chunk.css",
+    "main.js": "/tft_item/static/js/main.92b6e2ee.chunk.js",
+    "main.js.map": "/tft_item/static/js/main.92b6e2ee.chunk.js.map",
+    "runtime~main.js": "/tft_item/static/js/runtime~main.aa49c0de.js",
+    "runtime~main.js.map": "/tft_item/static/js/runtime~main.aa49c0de.js.map",
+    "static/js/2.e9bf0032.chunk.js": "/tft_item/static/js/2.e9bf0032.chunk.js",
+    "static/js/2.e9bf0032.chunk.js.map": "/tft_item/static/js/2.e9bf0032.chunk.js.map",
+    "index.html": "/tft_item/index.html",
+    "precache-manifest.91e932a36466382a1df03e163f82322f.js": "/tft_item/precache-manifest.91e932a36466382a1df03e163f82322f.js",
+    "service-worker.js": "/tft_item/service-worker.js",
+    "static/css/main.68a52652.chunk.css.map": "/tft_item/static/css/main.68a52652.chunk.css.map",
+    "static/media/App.css": "/tft_item/static/media/Recurve_Bow_item.df3c82a7.png",
+    "static/media/bf_sword_list.jpg": "/tft_item/static/media/bf_sword_list.d702cad0.jpg",
+    "static/media/chainvest_list.jpg": "/tft_item/static/media/chainvest_list.c5c87d4d.jpg",
+    "static/media/giantsbelt_list.jpg": "/tft_item/static/media/giantsbelt_list.b3c8a065.jpg",
+    "static/media/largerod_list.jpg": "/tft_item/static/media/largerod_list.00658b35.jpg",
+    "static/media/negatron_list.jpg": "/tft_item/static/media/negatron_list.bd4184ec.jpg",
+    "static/media/recurve_list.jpg": "/tft_item/static/media/recurve_list.d4a05ca9.jpg",
+    "static/media/spatula_list.jpg": "/tft_item/static/media/spatula_list.e3da1cfa.jpg",
+    "static/media/tear_list.jpg": "/tft_item/static/media/tear_list.558a7b2e.jpg"
+  }
+}
